@@ -63,7 +63,7 @@ export default function HowItWorks() {
              {/* Uploaded images go here */}
              <div className="glass-panel p-2 rounded-2xl relative overflow-hidden">
                 <img 
-                  src="https://placehold.co/1200x800/0f1117/33ff99?text=Please+upload+Image+2+to+public+folder+as+/dashboard-2.png" 
+                  src="/dashboard-2.png.webp" 
                   alt="Find gaps and Prioritize" 
                   className="w-full h-auto object-cover rounded-xl opacity-90 hover:opacity-100 transition-opacity"
                 />
@@ -71,7 +71,7 @@ export default function HowItWorks() {
              
              <div className="glass-panel p-2 rounded-2xl relative overflow-hidden">
                 <img 
-                  src="https://placehold.co/1200x800/0f1117/33ff99?text=Please+upload+Image+3+to+public+folder+as+/dashboard-3.png" 
+                  src="/dashboard-3.png.webp" 
                   alt="Get mentioned workflow" 
                   className="w-full h-auto object-cover rounded-xl opacity-90 hover:opacity-100 transition-opacity"
                 />

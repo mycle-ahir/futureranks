@@ -77,7 +77,7 @@ export default function Hero() {
           <div className="absolute inset-0 bg-gradient-to-t from-surface-900 to-transparent z-10 rounded-2xl pointer-events-none h-full" style={{ top: '60%' }} />
           <div className="rounded-xl border border-white/5 bg-surface-900 overflow-hidden flex flex-col items-center justify-center">
                <img 
-                 src="https://placehold.co/1200x700/0f1117/33ff99?text=Please+upload+Image+1+to+public+folder+as+/dashboard-1.png" 
+                 src="/dashboard-1.png.png" 
                  alt="AI Visibility Tracking Dashboard" 
                  className="w-full h-auto object-cover opacity-90"
                />
